@@ -1,4 +1,4 @@
-# Tuna
+<h1 align="center">Hi 👋, Welcome to Tuna </h1>
 Thon is a simple piece of code that allows the user to update your code automatically.
 
 

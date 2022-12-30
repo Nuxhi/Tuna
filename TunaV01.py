@@ -5,9 +5,9 @@ from requests_html import HTMLSession
 
 # Tuna configuration
 
-exp_version = 'TunaV0.py'
-version = 'TunaV01'
-last_version = 'TunaV1.py'
+exp_version = 'TunaV01.py'
+version = 'TunaV1'
+last_version = 'TunaV2.py'
 
 link = "https://github.com/Nuxhi" #Lien de votre profile GitHub 
 link_update = "https://github.com/Nuxhi/Tuna/raw/main/"+last_version #Lien de téléchargement directe de votre fichier sur GitHub

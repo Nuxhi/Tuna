@@ -7,8 +7,6 @@
 
 [![forthebadge](http://forthebadge.com/images/badges/made-with-python.svg)](http://python.org)
 [![forthebadge](http://forthebadge.com/images/badges/0-percent-optimized.svg)](https://github.com/Nuxhi)
-[contributeurs](https://github.com/Nuxhi/Tuna/contributors)
-[Cliquer pour afficher](https://github.com/Nuxhi/Tuna/tags)
 
 
 [🪐] **Pres requis :**
@@ -39,4 +37,10 @@
            - A debugging campaign will be launched, once it is launched.
            All the instructions will be indicated here, we invite you to help us with your bug reports
            
-  | Tables | Are | Cool | |----------|:-------------:|------:| | col 1 is| left-aligned | $1600 |
+| BUG        | Version           | Explication  |
+| ------------- |:-------------:| -----:|
+| Does not update      | Tuna express | [...........] |
+| Crash      | Tuna Full |   Crash ligne n°5 |
+| Exemple | Exemple      |    Exemple |
+
+Thanks : [contributeurs](https://github.com/Nuxhi/Tuna/contributors)

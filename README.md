@@ -5,6 +5,7 @@
 
  Tuna is a few lines of code that allows you to make any of your projects update automatically.
 
+[![forthebadge](http://forthebadge.com/images/badges/built-with-love.svg)](http://forthebadge.com) 
 
 [🪐] **Pres requis :**
 

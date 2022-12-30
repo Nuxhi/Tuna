@@ -27,9 +27,9 @@
 
 [🍇] **to-do list :**
 
-[x] Installation automatique des mises à jours
-[ ] Suppression des version ultérieurs.
-[x] Réduction de code pour la version express
+- [x] Installation automatique des mises à jours
+- [ ] Suppression des version ultérieurs.
+- [x] Réduction de code pour la version express
 
 
 📣 | For You :

@@ -6,7 +6,7 @@
  Tuna is a few lines of code that allows you to make any of your projects update automatically.
 
 [![forthebadge](http://forthebadge.com/images/badges/made-with-python.svg)](http://python.org)
-[![forthebadge](https://forthebadge.com/images/badges/0-percent-optimized.svg]
+[![forthebadge](http://forthebadge.com/images/badges/0-percent-optimized.svg)](https://github.com/Nuxhi)
 [🪐] **Pres requis :**
 
 > - **Python 3**

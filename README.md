@@ -24,12 +24,14 @@
 
 [🍇] **to-do list :**
 
->            [x] Installation automatique des mises à jours
->            [ ] Suppression des version ultérieurs.
->            [x] Réduction de code pour la version express
+> [x] Installation automatique des mises à jours
+> [ ] Suppression des version ultérieurs.
+> [x] Réduction de code pour la version express
 
 
 📣 | For You :
 
            - A debugging campaign will be launched, once it is launched.
            All the instructions will be indicated here, we invite you to help us with your bug reports
+           
+  | Tables | Are | Cool | |----------|:-------------:|------:| | col 1 is| left-aligned | $1600 |

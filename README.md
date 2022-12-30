@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, Welcome to Tuna <p align="left"></h1>
-<h3 align="center">🦞 Tuna is a piece of code that allows you to automatically update your python projects </h3>
+<h3 align="center">🦞 Tuna is a few lines of code that allows you to automatically update your python projects </h3>
 
-
-
- Tuna is a few lines of code that allows you to make any of your projects update automatically.
 
 [![forthebadge](http://forthebadge.com/images/badges/made-with-python.svg)](http://python.org)
 [![forthebadge](http://forthebadge.com/images/badges/0-percent-optimized.svg)](https://github.com/Nuxhi)

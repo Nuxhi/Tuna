@@ -7,6 +7,10 @@
 
 [![forthebadge](http://forthebadge.com/images/badges/made-with-python.svg)](http://python.org)
 [![forthebadge](http://forthebadge.com/images/badges/0-percent-optimized.svg)](https://github.com/Nuxhi)
+[contributeurs](https://github.com/Nuxhi/Tuna/contributors)
+[Cliquer pour afficher](https://github.com/Nuxhi/Tuna/tags)
+
+
 [🪐] **Pres requis :**
 
 > - **Python 3**

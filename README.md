@@ -1,9 +1,5 @@
 <h1 align="center">Hi 👋, Welcome to Tuna </h1>
-Thon is a simple piece of code that allows the user to update your code automatically.
-
-
-<h1 align="center">Hi 👋, Welcome to Tuna </h1>
-<h3 align="center">An automatic update tool for your python projects</h3>
+<h3 align="center">Tuna is a piece of code that allows you to automatically update your python projects</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nuxhi&label=Profile%20views&color=0e75b6&style=flat" alt="nuxhi" /> </p>
 

@@ -9,38 +9,36 @@
 [![forthebadge](http://forthebadge.com/images/badges/0-percent-optimized.svg)](https://github.com/Nuxhi)
 
 
-[🪐] **Pres requis :**
+[🪐] **prerequisites : **
 
 > - **Python 3**
-> - Dirigez vous sur votre profil github "https://github.com/"USERNAME""
-> - modifier votre profile
-> - Changer le nom de votre company par la prochaine version de votre outil.
-> - Par exemple : TunaV1 -> TunaV2 (lors du lancement de votre projet avec le code de tuna, si la version du projet ne conrespond pas alors tuna téléchargeras celle indiquer sur votre profile)
+> - Go to your github profile "https://github.com/"USERNAME""
+> - edit your profile
+> - Change the name of your company to the next version of your tool.
+> - For example: TunaV1 -> TunaV2 (when launching your project with the code of tuna, if the version of the project does not correspond then you will download the one indicated on your profile)
 
 
-[🔑] **Installation :**
+[🔑] **Installation : **
 
-> - télécharge le fichier *`Tuna express.py`* **ou** *`Tuna full.py`*
-> - configure le code
-> - copie le puis intégre le au début de ton projet. 
+> - download the file *`Tuna express.py`* **or** *`Tuna full.py`*
+> - set up the code
+> - copy it and integrate it at the beginning of your project. 
 
 
 [🍇] **to-do list :**
 
-- [x] Installation automatique des mises à jours
-- [ ] Suppression des version ultérieurs.
-- [x] Réduction de code pour la version express
+- [x] Automatic installation of updates
+- [ ] Removal of later versions.
+- [ ] Code reduction for express version
 
 
 📣 | For You :
 
-           - A debugging campaign will be launched, once it is launched.
-           All the instructions will be indicated here, we invite you to help us with your bug reports
+           - A debugging / optimization campaign has been launched.
+           We let you make your reports, please follow the following pattern: 
            
-| BUG        | Version           | Explication  |
-| ------------- |:-------------:| -----:|
-| Does not update      | Tuna express | [...........] |
-| Crash      | Tuna Full |   Crash ligne n°5 |
-| Exemple | Exemple      |    Exemple |
+           Bug Name | Version      | Explanation
+           Crash    | Tuna express | during download .... 
+
 
 Thanks : [contributeurs](https://github.com/Nuxhi/Tuna/contributors)

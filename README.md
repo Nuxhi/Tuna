@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, Welcome to Tuna <p align="left"></h1>
+<h1 align="center">Hi 👋, Welcome to Tuna 🐠 <p align="left"></h1>
 <h3 align="center">🦞 Tuna is a few lines of code that allows you to automatically update your python projects </h3>
 
 

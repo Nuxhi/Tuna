@@ -6,7 +6,7 @@
 [![forthebadge](http://forthebadge.com/images/badges/0-percent-optimized.svg)](https://github.com/Nuxhi)
 
 
-[🪐] **prerequisites : **
+[🪐] **prerequisites :**
 
 > - **Python 3**
 > - Go to your github profile "https://github.com/"USERNAME""
@@ -15,7 +15,7 @@
 > - For example: TunaV1 -> TunaV2 (when launching your project with the code of tuna, if the version of the project does not correspond then you will download the one indicated on your profile)
 
 
-[🔑] **Installation : **
+[🔑] **Installation :**
 
 > - download the file *`Tuna express.py`* **or** *`Tuna full.py`*
 > - set up the code

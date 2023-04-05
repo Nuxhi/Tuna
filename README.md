@@ -5,6 +5,7 @@
 [![forthebadge](http://forthebadge.com/images/badges/made-with-python.svg)](http://python.org)
 [![forthebadge](http://forthebadge.com/images/badges/0-percent-optimized.svg)](https://github.com/Nuxhi)
 
+At the base Tuna is a piece of code realized for NTool in order to update it alone and make it autonomous, having had difficulty to find a solution, I offer you a solution.
 
 [🪐] **prerequisites :**
 
